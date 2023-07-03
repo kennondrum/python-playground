@@ -10,6 +10,6 @@ birthyear = 2023-age
 country = input("Where are you from?: ")
 hobby = input("What is your favourite hobby?: ")
 
-print("\n\nHi", name, "from", country,"!")
-print("You're", age, "years old, born in", birthyear, ".")
+print("\n\nHi " +str(name), "from", country,"!")
+print("You're " +str(age), "years old, born in", birthyear, ".")
 print("And you LOVE", hobby, "\n")
