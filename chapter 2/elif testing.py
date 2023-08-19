@@ -9,6 +9,4 @@ elif age < 21:
 else:
     print("error lol")
 
-'''
-so elif basically groups if statements, and will exit the whole "group" once one of them is TRUE
-'''
+#so elif basically groups if statements, and will exit the whole "group" once one of them is TRUE
