@@ -1,4 +1,3 @@
-
 def happy_birthday(name, age):
     """define function with input parameters"""
     print("Happy Birthday", name)
