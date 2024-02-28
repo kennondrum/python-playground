@@ -3,5 +3,3 @@ for x in range(1, 10):
         break
     else:
         print("loop number:", x)
-
-print(x)
