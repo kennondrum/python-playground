@@ -12,7 +12,7 @@ happy_birthday("cock", 23)
 def add(x, y):
     """define a function to sum two arguments"""
     z = x + y
-    return z    #sends out the sum
+    return z    #sends out the computed sum
 
 print(add(1,2)) #call the function and print out the answer
 
